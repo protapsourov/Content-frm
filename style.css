@@ -1,0 +1,51 @@
+h1{
+	height:100px;
+	width:400px;
+	background-color:#0C3E1D;
+	transform:translateX(500px);
+}
+.had{
+     padding: 1.5rem;
+     margin-left:60px;
+}
+.had1{
+    padding: 1.5rem;
+    margin-left:60px;   
+}
+.lead{
+	border:1px solid;
+	background-color:#B77363;
+	 padding: 1.5rem;
+    margin-left:60px;
+    font-size:30px;
+
+}
+.inline{
+	border:1px solid;
+	background-color:#F5D3CB;
+	padding: 1.5rem;
+    margin-left:60px;
+} 
+.mybox{
+    border:1px solid;
+    background-color:#C9F2DF;
+	padding: 1.5rem;
+    margin-left:60px;
+} 
+.row{
+    border:1px solid;
+    background-color:#37EDDD
+	padding: 1.5rem;
+    margin-left:60px;
+}
+	
+.fluid img{
+	 width:1300px;
+	 margin-left:25px;
+}
+.form{
+	min-height:40px;
+	background-color:blue;
+	margin-bottom:8px;
+	color:white;
+}
